@@ -1,0 +1,20 @@
+.signupbtn {
+    
+    float: left;
+    height: 44px;
+    margin-top: 13px;
+    border-radius: 25px;
+    
+}
+.heading
+{
+    height: 27px;
+    width: 306px;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: 1.67px;
+    line-height: 27px;
+    margin-bottom: 36px;
+}

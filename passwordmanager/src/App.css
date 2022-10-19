@@ -1,0 +1,18 @@
+/* .App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+ body{
+  /* min-height: 100vh; */
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+   */
+  } 
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}

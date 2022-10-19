@@ -1,0 +1,33 @@
+.success {
+    height: 44px;
+    width: 513px;
+    box-sizing: border-box;
+    height: 44px;
+    width: 513px;
+    border: 1px solid #97E6B8;
+    border-radius: 2px;
+    background-color: #CBF3DC;
+    position: absolute;
+    top: 150px;
+}
+
+.success i{
+    color: #2ECC71;
+    position: absolute;
+    top: 15px;
+    right: 13px;
+    height: 14px;
+    width: 14px;
+    color: #63D995;
+}
+
+.alert {
+    height: 19px;
+    width: 750px;
+    color: #2ECC71;
+    font-family: Lato;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 17px;
+    padding: 12px;
+}

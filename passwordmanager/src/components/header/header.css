@@ -1,0 +1,33 @@
+.square
+{
+    height: 137px;
+    width: 1440px;
+    background-color: #F5F7FB;
+    position: absolute;
+    top: 0px;
+    margin-left: 130px;
+
+}
+
+.head {
+    height: 104px;
+    width: 1440px;
+    background-color: #F5F7FB;
+    position: absolute;
+    top: 31px;
+    margin-left: 0px;
+   
+}
+
+.pass_logo {
+    height: 68px;
+    width: 179px;
+    position: absolute;
+    top: 0;
+    padding-left: 100px;
+}
+
+.sync
+{
+    padding-left: 1064px; 
+}
